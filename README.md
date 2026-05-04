@@ -4,9 +4,7 @@
 
 # About me
 
-<li> Computer Science student majoring in Cyber-Security at the University of Newcastle </li>
-<li> Currently working as an Infrastructure Engineer at Qvalent Wallsend since 2023, where I have contributed to upgrading critical infrastructure, and ensured compliance with PCI-DSS V4 and ISO27001 standards. </li>
-<li> Passionate about learning and staying up-to-date with the latest advancements in Cyber-Security </li>
+
 <li> Skilled in Java, C++, Python, SQL, HTML, and CSS, with practical experience in server administration, including SSH key and SSL/TLS certificate renewal, and application/database installation and configuration in both staging and production environments. </li>
 <li> Well-versed in cryptographic techniques, ensuring data security and confidentiality in applications, and actively contributing to governance, risk, and compliance policies, along with incident response procedures. </li>
 <li> Placed on 2022 and 2023 College Commendation List - College of Engineering, Science and Environment. </li>
